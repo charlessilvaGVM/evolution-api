@@ -29,23 +29,6 @@ This code is in no way affiliated with WhatsApp. Use at your own discretion. Don
 
 This code was produced based on the baileys library and it is still under development.
 
-# Donate to the project.
 
-#### PicPay
-
-<div align="center">
-  <a href="https://app.picpay.com/user/davidsongomes1998" target="_blank" rel="noopener noreferrer">
-    <img src="./public/images/picpay-qr.jpeg" style="width: 50% !important;">
-  </a>
-</div>
-
-#### Buy me coffe - PIX
-
-<div align="center">
-  <a href="https://bmc.link/evolutionapi" target="_blank" rel="noopener noreferrer">
-    <img src="./public/images/qrcode-pix.png" style="width: 50% !important;">
-  </a>
-  <p><b>CHAVE PIX (Telefone):</b> (74)99987-9409</p>
-</div>
 
 </br>
